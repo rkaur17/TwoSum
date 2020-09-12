@@ -1,0 +1,5 @@
+Ramneet Kaur
+
+I started out with taking an array of numbers and checking the length, then I went through the list to check
+if there are 2 elements that add up to a specific sum. If the solution could not be found, then I returned -1.
+I then created a random array of numbers and checked to see if the elements indexes printed out to what the sum is.
